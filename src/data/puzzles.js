@@ -232,8 +232,6 @@ export const puzzles = [
       { type: 'text', level: 'C', text: '他曾效力于沙尔克、沃尔夫斯堡、巴黎圣日耳曼' },
     ],
   },
-]
-
   {
     id: 13,
     category: 'football',
@@ -386,6 +384,8 @@ export const puzzles = [
       { type: 'text', level: 'C', text: '他与另一位巴西队友共同构成英超一支黑白球衣球队的中场核心' },
     ],
   },
+]
+
 export const difficultyOptions = [
   { id: '球童', label: '球童水平', desc: '随便猜猜' },
   { id: '球迷', label: '球迷水平', desc: '有点挑战' },
